@@ -1,0 +1,31 @@
+node_modules/
+dist/
+models/*.onnx
+*.gif
+!demo/*.gif
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude Code
+.claude
+CLAUDE.md
+
+# Logs
+*.log
+npm-debug.log*
+
+# Test output
+coverage/
+
+# Temp / emote output
+emotes/
