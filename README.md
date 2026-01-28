@@ -2,7 +2,7 @@
 
 CLI tool that takes a video, removes the background using AI, and outputs transparent animated GIFs — sized for Twitch emotes and general use.
 
-![demo](https://github.com/MonoToneMoe/demo/demo.gif)
+![demo](https://github.com/MonoToneMoe/vid-to-gif-bg-remover/blob/main/demo/demo.gif?raw=true)
 
 ## What it does
 
